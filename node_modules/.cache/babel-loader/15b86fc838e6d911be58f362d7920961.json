@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { isNode } from 'detect-node-es';\nexport var env = {\n  isNode: isNode,\n  forceCache: false\n};","map":null,"metadata":{},"sourceType":"module"}

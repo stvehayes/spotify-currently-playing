@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var FOCUS_GROUP = 'data-focus-lock';\nexport var FOCUS_DISABLED = 'data-focus-lock-disabled';\nexport var FOCUS_ALLOW = 'data-no-focus-lock';\nexport var FOCUS_AUTO = 'data-autofocus-inside';","map":null,"metadata":{},"sourceType":"module"}

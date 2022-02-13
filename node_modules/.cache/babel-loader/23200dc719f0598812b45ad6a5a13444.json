@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createSidecarMedium } from 'use-sidecar';\nexport var effectCar = createSidecarMedium();","map":null,"metadata":{},"sourceType":"module"}

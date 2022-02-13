@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { exportSidecar } from 'use-sidecar';\nimport { RemoveScrollSideCar } from './SideEffect';\nimport { effectCar } from './medium';\nexport default exportSidecar(effectCar, RemoveScrollSideCar);","map":null,"metadata":{},"sourceType":"module"}

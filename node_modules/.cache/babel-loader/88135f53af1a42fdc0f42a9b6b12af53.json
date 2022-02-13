@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { assignRef } from './assignRef';\nimport { createCallbackRef } from './createRef';\nexport function transformRef(ref, transformer) {\n  return createCallbackRef(function (value) {\n    return assignRef(ref, transformer(value));\n  });\n}","map":null,"metadata":{},"sourceType":"module"}
